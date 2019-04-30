@@ -1,0 +1,7 @@
+C:\Users\Brandon\Source\Repos\BSCardGame\BSGameServer\obj\Debug\BSGameServer.csprojAssemblyReference.cache
+C:\Users\Brandon\Source\Repos\BSCardGame\BSGameServer\obj\Debug\BSGameServer.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Source\Repos\BSCardGame\BSGameServer\bin\Debug\BSGameServer.exe.config
+C:\Users\Brandon\Source\Repos\BSCardGame\BSGameServer\bin\Debug\BSGameServer.exe
+C:\Users\Brandon\Source\Repos\BSCardGame\BSGameServer\bin\Debug\BSGameServer.pdb
+C:\Users\Brandon\Source\Repos\BSCardGame\BSGameServer\obj\Debug\BSGameServer.exe
+C:\Users\Brandon\Source\Repos\BSCardGame\BSGameServer\obj\Debug\BSGameServer.pdb
