@@ -1,0 +1,8 @@
+C:\Users\Brandon\Source\Repos\ERSCardGame\ERSUtilsAndCore\bin\Debug\ERSUtilsAndCore.dll
+C:\Users\Brandon\Source\Repos\ERSCardGame\ERSUtilsAndCore\bin\Debug\ERSUtilsAndCore.pdb
+C:\Users\Brandon\Source\Repos\ERSCardGame\ERSUtilsAndCore\obj\Debug\ERSUtilsAndCore.csprojAssemblyReference.cache
+C:\Users\Brandon\Source\Repos\ERSCardGame\ERSUtilsAndCore\obj\Debug\ERSUtilsAndCore.Resources.resources
+C:\Users\Brandon\Source\Repos\ERSCardGame\ERSUtilsAndCore\obj\Debug\ERSUtilsAndCore.csproj.GenerateResource.cache
+C:\Users\Brandon\Source\Repos\ERSCardGame\ERSUtilsAndCore\obj\Debug\ERSUtilsAndCore.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Source\Repos\ERSCardGame\ERSUtilsAndCore\obj\Debug\ERSUtilsAndCore.dll
+C:\Users\Brandon\Source\Repos\ERSCardGame\ERSUtilsAndCore\obj\Debug\ERSUtilsAndCore.pdb
