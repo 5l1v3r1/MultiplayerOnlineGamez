@@ -1,0 +1,9 @@
+C:\Users\Brandon\Source\Repos\BSCardGame\BSCardGame\bin\Debug\BSCardGame.exe.config
+C:\Users\Brandon\Source\Repos\BSCardGame\BSCardGame\bin\Debug\BSCardGame.exe
+C:\Users\Brandon\Source\Repos\BSCardGame\BSCardGame\bin\Debug\BSCardGame.pdb
+C:\Users\Brandon\Source\Repos\BSCardGame\BSCardGame\obj\Debug\BSCardGame.csprojAssemblyReference.cache
+C:\Users\Brandon\Source\Repos\BSCardGame\BSCardGame\obj\Debug\BSCardGame.Properties.Resources.resources
+C:\Users\Brandon\Source\Repos\BSCardGame\BSCardGame\obj\Debug\BSCardGame.csproj.GenerateResource.cache
+C:\Users\Brandon\Source\Repos\BSCardGame\BSCardGame\obj\Debug\BSCardGame.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Source\Repos\BSCardGame\BSCardGame\obj\Debug\BSCardGame.exe
+C:\Users\Brandon\Source\Repos\BSCardGame\BSCardGame\obj\Debug\BSCardGame.pdb

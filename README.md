@@ -1,2 +1,7 @@
 # MultiplayerOnlineGamez
-WIP
+
+(mostly going to be card games)
+
+Current games:
+
+- ERS
