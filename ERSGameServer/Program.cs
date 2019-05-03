@@ -112,8 +112,12 @@ namespace ERSGameServer
 			//identify client
 			foreach (Client c in Clients)
 			{
-
+				if (c.name == user)
+				{
+					client = c;
+				}
 			}
+			//parse data
 		}
 
 		private static void SendData(string data, Socket socket)
